@@ -1,0 +1,9 @@
+@@||cpt.itv.com^$important
+@@||ssl-itvappletv.2cnt.net^$important
+@@||itvios.2cnt.net^$important
+@@||itv-sim.aimatch.com^$important
+@@||tom.itv.com^$important
+@@||slb-barb-pool17.2cnt.net^$important
+@@||woody.itv.com^$important
+@@||spike.itv.com^$important
+@@||buzz.itv.com^$important
